@@ -1,4 +1,4 @@
-function happyHolidays(String) {
+function happyHolidays() {
   return "Happy Holidays!"
 }
 
